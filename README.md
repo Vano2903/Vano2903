@@ -23,11 +23,20 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vano2903&repo=ipaas" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Vano2903/peggle-data-collector.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vano2903&repo=peggle-data-collector" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vano2903&repo=peggle-data-collector" lt="GitHub Stats" />
     </a>
   </p>
 </div>
 
+__Here you can find all my notes:__ 
+
+<div>
+  <p>
+    <a href="https://github.com/Vano2903/notebook.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vano2903&repo=notebook" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 <h2>👀 My github Stats</h2>
 
