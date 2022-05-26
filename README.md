@@ -1,5 +1,6 @@
 # Hallooo 😄, I'm vano. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Vano2903.repoName) [![GitHub followers](https://img.shields.io/github/followers/Vano2903.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Vano2903.repoName)
+[![GitHub followers](https://img.shields.io/github/followers/Vano2903.svg?style=social&label=Follow)](https://github.com/Vano2903?tab=followers)<br/>
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" />
 
