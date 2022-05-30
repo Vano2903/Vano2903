@@ -42,7 +42,7 @@ __Here you can find all my notes:__
 <h2>👀 My github Stats</h2>
 
 <div>
-  <p align="center">
+  <p>
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vano2903" alt="GitHub Stats" /> <br/><br/>
   
