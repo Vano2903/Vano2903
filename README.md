@@ -2,9 +2,9 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Vano2903.repoName)
 [![GitHub followers](https://img.shields.io/github/followers/Vano2903.svg?style=social&label=Follow)](https://github.com/Vano2903?tab=followers)<br/>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" />
+<img align="right" alt="code-cat" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" height="250px">
 
-## <img src="https://c.tenor.com/5ry-200hErMAAAAS/hacker-hacker-man.gif" width="30px">&nbsp;***About me***
+## <img src="https://c.tenor.com/5ry-200hErMAAAAS/hacker-hacker-man.gif" height="30px">&nbsp;***About me***
 
 I am a computer science student attending my last year of highschool. I have been working with web development and backend with golang. I love dockers🐳 :D
 
