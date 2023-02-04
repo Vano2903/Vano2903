@@ -6,7 +6,7 @@
 
 ## <img src="https://c.tenor.com/5ry-200hErMAAAAS/hacker-hacker-man.gif" height="30px">&nbsp;***About me***
 
-I am a computer science student attending my last year of highschool. I have been working with web development and backend with golang. I love dockers🐳 :D
+I am a computer science student attending my first year of university. I have been working with web development and backend with golang. I love dockers🐳 :D
 
 * **I am interested in backend development, go and docker**
 - 🎒 I’m learning ...
